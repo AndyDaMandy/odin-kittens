@@ -1,1 +1,2 @@
-Working with the Flicker API for TOP
+Working with the APIs for TOP:
+https://www.theodinproject.com/lessons/ruby-on-rails-kittens-api
